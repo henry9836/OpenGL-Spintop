@@ -1,0 +1,5 @@
+﻿  main.cpp
+  ShaderLoader.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL.vcxproj -> G:\UNI\2019\OPENGL\Summartive 1\Summative1\Merry Go Round\Debug\OpenGL.exe
